@@ -1,6 +1,7 @@
 /bin
 .vscode/
 CMakeFiles/
+googletest/
 *.dSYM
 main
 *.exe
