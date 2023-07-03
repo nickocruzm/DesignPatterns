@@ -1,10 +1,6 @@
 # Composite Pattern
 
-> Author: Jimmy Tran, Brian Crites ([@brrcrites](https://github.com/brrcrites))
-
-**You must work in a group of two for this lab**
-
-In this lab you will creating a composite pattern for representing an expression tree. An expression tree is a tree representation of an equation, so the expression
+Creating a composite pattern for representing an expression tree. An expression tree is a tree representation of an equation, so the expression
 
 ```
 3 + 7 * 4 - 2
