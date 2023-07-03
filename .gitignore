@@ -1,0 +1,11 @@
+/bin
+.vscode/
+CMakeFiles/
+*.dSYM
+main
+*.exe
+Makefile
+lib/
+images/
+*.smake
+CMakeCache.txt
