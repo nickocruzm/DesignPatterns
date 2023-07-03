@@ -9,3 +9,4 @@ lib/
 images/
 *.smake
 CMakeCache.txt
+cmake_install.cmake
