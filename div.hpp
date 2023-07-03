@@ -1,7 +1,7 @@
 #ifndef __DIV_HPP__
 #define __DIV_HPP__
 
-#include "base.hpp"
+#include "Base.hpp"
 
 using std::string;
 

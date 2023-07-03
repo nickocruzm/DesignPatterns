@@ -1,7 +1,7 @@
 #ifndef __NEGATIVE_TWO_OP_HPP__
 #define __NEGATIVE_TWO_OP_HPP__
 
-#include "../base.hpp"
+#include "../Base.hpp"
 
 class NegativeTwoOpMock : public Base {
     public:

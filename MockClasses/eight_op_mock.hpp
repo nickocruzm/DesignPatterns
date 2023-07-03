@@ -1,7 +1,7 @@
 #ifndef __EIGHT_OP_HPP__
 #define __EIGHT_OP_HPP__
 
-#include "../base.hpp"
+#include "../Base.hpp"
 
 class EightOpMock : public Base {
     public:

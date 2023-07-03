@@ -1,7 +1,7 @@
 #ifndef __MULT_HPP__
 #define __MULT_HPP__
 
-#include "base.hpp"
+#include "Base.hpp"
 
 using std::string;
 

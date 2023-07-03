@@ -1,7 +1,7 @@
 #ifndef __THREE_OP_HPP__
 #define __THREE_OP_HPP__
 
-#include "../base.hpp"
+#include "../Base.hpp"
 
 class ThreeOpMock : public Base {
     public:
