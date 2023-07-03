@@ -1,7 +1,7 @@
 #ifndef __POW_HPP__
 #define __POW_HPP__
 
-#include "base.hpp"
+#include "Base.hpp"
 
 using namespace std;
 

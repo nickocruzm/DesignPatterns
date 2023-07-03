@@ -1,7 +1,7 @@
 #ifndef __RAND_HPP__
 #define __RAND_HPP__
 
-#include "op.hpp"
+#include "Op.hpp"
 
 class Random: public Base{
     private:

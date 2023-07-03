@@ -2,7 +2,7 @@
 #define __MULT_TEST_HPP__
 
 #include "gtest/gtest.h"
-#include "mult.hpp"
+#include "Mult.hpp"
 #include "MockClasses/eight_op_mock.hpp"
 #include "MockClasses/three_op_mock.hpp"
 #include "MockClasses/zero_op_mock.hpp"

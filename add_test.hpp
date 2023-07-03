@@ -3,8 +3,8 @@
 
 #include "gtest/gtest.h"
 #include "Add.hpp"
-#include "op.hpp"
-#include "mult.hpp"
+#include "Op.hpp"
+#include "Mult.hpp"
 #include "div.hpp"
 
 TEST(AddTest,AddSimple){

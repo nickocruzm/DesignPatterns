@@ -3,8 +3,8 @@
 
 #include "gtest/gtest.h"
 #include "div.hpp"
-#include "op.hpp"
-#include "mult.hpp"
+#include "Op.hpp"
+#include "Mult.hpp"
 #include "Pow.hpp"
 
 TEST(PowTest, PowEvaluateOperands) {

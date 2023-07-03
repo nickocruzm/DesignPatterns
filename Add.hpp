@@ -1,14 +1,11 @@
 #ifndef __ADD_HPP__
 #define __ADD_HPP__
 
-#include "base.hpp"
+#include "Base.hpp"
 #include <iostream>
-
-using namespace std;
 
 class Add: public Base{
     private:
-    
         Base* x1;
         Base* x2;
 

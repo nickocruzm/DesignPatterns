@@ -2,8 +2,8 @@
 #define __SUB_TEST_HPP__
 
 #include "gtest/gtest.h"
-#include "op.hpp"
-#include "mult.hpp"
+#include "Op.hpp"
+#include "Mult.hpp"
 #include "MockClasses/eight_op_mock.hpp"
 #include "MockClasses/three_op_mock.hpp"
 #include "MockClasses/zero_op_mock.hpp"
