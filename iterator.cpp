@@ -1,5 +1,4 @@
 #include "iterator.hpp"
-
 #include <iostream>
         
 Iterator::Iterator(Base* ptr)
@@ -7,10 +6,7 @@ Iterator::Iterator(Base* ptr)
     node_stack.push(base_iterator(ptr));
 }
 
-Iterator::base_iterator::base_iterator(Base* ptr)
-    :ptr(ptr),index(0),number_children(ptr->number_of_children())
-{
-}
+Iterator::base_iterator::base_iterator(Base* ptr):ptr(ptr),index(0),number_children(ptr->number_of_children()){}
 
 void Iterator::next()
 {
