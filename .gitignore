@@ -1,4 +1,4 @@
-/bin
+bin/
 .vscode/
 CMakeFiles/
 googletest/
@@ -8,6 +8,10 @@ main
 Makefile
 lib/
 images/
-*.smake
+*.cmake
 CMakeCache.txt
 cmake_install.cmake
+googletest/
+lab
+test
+.DS_Store
