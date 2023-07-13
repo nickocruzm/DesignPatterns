@@ -23,8 +23,7 @@ builds 2 .exe files:
 
 No parenthisis needed for expression. Will be executed from left to right.
 
-When using the multiplication symbol * , apply delimeter \*
-
+When using the multiplying make sure to apply a delimeter as shown in the example
 example
 
 ```bash
