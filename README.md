@@ -13,9 +13,9 @@ Build files:
     make 
 ```
 
-builds exe:
-    - calculator
-    - test
+builds 2 .exe files:
+    calculator
+    test
 
 ```bash
     ./<filename> <expression>
